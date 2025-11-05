@@ -1,11 +1,10 @@
 print("Walawe")
+baru = "baru"
 """
-============================
 Nama : Muslihan Gio Suwanda
 NIM : 2508126
 Kelas : 1B
 Materi : Function and Procedure
-============================
 """
 def jawaban():
 
